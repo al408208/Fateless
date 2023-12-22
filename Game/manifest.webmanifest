@@ -1,0 +1,12 @@
+{
+  "name": "FATELESS",
+  "short_name": "FATELESS",
+  "id": "com.gdevelop.gdblade",
+  "description": "",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
